@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+#db creds
+
+#jwt secret
+
 # testing
 /coverage
 
